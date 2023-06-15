@@ -1,22 +1,2 @@
-# assignment_photo_gallery
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-
-https://github.com/goutam2597/AssignmentPhotoGallery/blob/main/Screenshot_20230612_222652.png
-
-https://github.com/goutam2597/AssignmentPhotoGallery/blob/main/Screenshot_20230612_222716.png
-
+![Screenshot_20230612_222716](https://github.com/goutam2597/AssignmentPhotoGallery/assets/134217195/28ff6c3a-23bc-4848-9bce-63284a742e93)
+![Screenshot_20230612_222652](https://github.com/goutam2597/AssignmentPhotoGallery/assets/134217195/3a602627-6983-42ba-b879-328229fe9591)
